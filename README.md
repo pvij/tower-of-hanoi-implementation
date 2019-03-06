@@ -7,17 +7,17 @@ Tower of Hanoi implemented using C. The game involves three poles A, B and C and
 
 The code takes in the number of disks present on pole A as follows and prints before and after scenarios (1 is the smallest (top-most) disk followed by other disks) as follows: -
 
-Enter the no of disks on tower A:- 10
+Enter the no of disks on tower A:- 10</br></br>
 
----BEFORE---
-Pole A: 1 2 3 4 5 6 7 8 9 10 
-Pole B: 
-Pole C: 
+---BEFORE---</br>
+Pole A: 1 2 3 4 5 6 7 8 9 10 </br>
+Pole B: </br>
+Pole C: </br></br>
 
----AFTER---
-Pole A: 
-Pole B: 
-Pole C: 1 2 3 4 5 6 7 8 9 10
+---AFTER---</br>
+Pole A: </br>
+Pole B: </br>
+Pole C: 1 2 3 4 5 6 7 8 9 10</br></br>
 
 The code makes use of a stack, which is implemented using a linked list.
 
